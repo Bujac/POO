@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\Desktop\\Ion univer\\anul 2\\Folder nou\\inheritance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5258231-94E2-48C8-AC5B-BF46B1D8B44C}|inheritance\\inheritance.vcxproj|C:\\Users\\Asus\\Desktop\\Ion univer\\anul 2\\Folder nou\\inheritance\\inheritance\\inheritance.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E5258231-94E2-48C8-AC5B-BF46B1D8B44C}|inheritance\\inheritance.vcxproj|solutionrelative:inheritance\\inheritance.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "inheritance.cpp",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Ion univer\\anul 2\\Folder nou\\inheritance\\inheritance\\inheritance.cpp",
+              "RelativeDocumentMoniker": "inheritance\\inheritance.cpp",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Ion univer\\anul 2\\Folder nou\\inheritance\\inheritance\\inheritance.cpp",
+              "RelativeToolTip": "inheritance\\inheritance.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-22T11:57:20.552Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
