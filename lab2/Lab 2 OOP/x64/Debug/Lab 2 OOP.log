@@ -1,11 +1,2 @@
-﻿  Faculty.cpp
-  FileManager.cpp
-  Functions.cpp
-C:\Users\Asus\Desktop\Lab 2 OOP\Lab 2 OOP\Functions.cpp(127,9): warning C4101: 'id': unreferenced local variable
-  GlobalVariables.cpp
-  Lab 2 OOP.cpp
-  Logger.cpp
-  Student.cpp
-  Generating Code...
-C:\Users\Asus\Desktop\Lab 2 OOP\Lab 2 OOP\Faculty.cpp(13,1): warning C4715: 'SFToString': not all control paths return a value
-  Lab 2 OOP.vcxproj -> C:\Users\Asus\Desktop\Lab 2 OOP\x64\Debug\Lab 2 OOP.exe
+﻿  FileManager.cpp
+  Lab 2 OOP.vcxproj -> C:\Users\Asus\Desktop\Ion univer\anul 2\POO\lab2\x64\Debug\Lab 2 OOP.exe

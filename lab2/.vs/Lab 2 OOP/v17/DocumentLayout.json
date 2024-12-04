@@ -7,6 +7,30 @@
       "RelativeMoniker": "D:0:0:{5334BA14-DA08-4F4D-B38A-47AF64111884}|Lab 2 OOP\\Lab 2 OOP.vcxproj|solutionrelative:Lab 2 OOP\\Lab 2 OOP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{5334BA14-DA08-4F4D-B38A-47AF64111884}|Lab 2 OOP\\Lab 2 OOP.vcxproj|C:\\Users\\Asus\\Desktop\\Ion univer\\anul 2\\POO\\lab2\\Lab 2 OOP\\GlobalVariables.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5334BA14-DA08-4F4D-B38A-47AF64111884}|Lab 2 OOP\\Lab 2 OOP.vcxproj|solutionrelative:Lab 2 OOP\\GlobalVariables.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5334BA14-DA08-4F4D-B38A-47AF64111884}|Lab 2 OOP\\Lab 2 OOP.vcxproj|C:\\Users\\Asus\\Desktop\\Ion univer\\anul 2\\POO\\lab2\\Lab 2 OOP\\FileManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5334BA14-DA08-4F4D-B38A-47AF64111884}|Lab 2 OOP\\Lab 2 OOP.vcxproj|solutionrelative:Lab 2 OOP\\FileManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5334BA14-DA08-4F4D-B38A-47AF64111884}|Lab 2 OOP\\Lab 2 OOP.vcxproj|C:\\Users\\Asus\\Desktop\\Ion univer\\anul 2\\POO\\lab2\\Lab 2 OOP\\Functions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5334BA14-DA08-4F4D-B38A-47AF64111884}|Lab 2 OOP\\Lab 2 OOP.vcxproj|solutionrelative:Lab 2 OOP\\Functions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5334BA14-DA08-4F4D-B38A-47AF64111884}|Lab 2 OOP\\Lab 2 OOP.vcxproj|C:\\Users\\Asus\\Desktop\\Ion univer\\anul 2\\POO\\lab2\\Lab 2 OOP\\Faculty.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5334BA14-DA08-4F4D-B38A-47AF64111884}|Lab 2 OOP\\Lab 2 OOP.vcxproj|solutionrelative:Lab 2 OOP\\Faculty.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5334BA14-DA08-4F4D-B38A-47AF64111884}|Lab 2 OOP\\Lab 2 OOP.vcxproj|C:\\Users\\Asus\\Desktop\\Ion univer\\anul 2\\POO\\lab2\\Lab 2 OOP\\Faculty.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5334BA14-DA08-4F4D-B38A-47AF64111884}|Lab 2 OOP\\Lab 2 OOP.vcxproj|solutionrelative:Lab 2 OOP\\Faculty.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5334BA14-DA08-4F4D-B38A-47AF64111884}|Lab 2 OOP\\Lab 2 OOP.vcxproj|C:\\Users\\Asus\\Desktop\\Ion univer\\anul 2\\POO\\lab2\\Lab 2 OOP\\Functions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5334BA14-DA08-4F4D-B38A-47AF64111884}|Lab 2 OOP\\Lab 2 OOP.vcxproj|solutionrelative:Lab 2 OOP\\Functions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5334BA14-DA08-4F4D-B38A-47AF64111884}|Lab 2 OOP\\Lab 2 OOP.vcxproj|C:\\Users\\Asus\\Desktop\\Ion univer\\anul 2\\POO\\lab2\\Lab 2 OOP\\Student.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5334BA14-DA08-4F4D-B38A-47AF64111884}|Lab 2 OOP\\Lab 2 OOP.vcxproj|solutionrelative:Lab 2 OOP\\Student.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -29,30 +53,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{5334BA14-DA08-4F4D-B38A-47AF64111884}|Lab 2 OOP\\Lab 2 OOP.vcxproj|C:\\Users\\Asus\\Desktop\\Ion univer\\anul 2\\POO\\lab2\\Lab 2 OOP\\Student.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5334BA14-DA08-4F4D-B38A-47AF64111884}|Lab 2 OOP\\Lab 2 OOP.vcxproj|solutionrelative:Lab 2 OOP\\Student.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5334BA14-DA08-4F4D-B38A-47AF64111884}|Lab 2 OOP\\Lab 2 OOP.vcxproj|C:\\Users\\Asus\\Desktop\\Ion univer\\anul 2\\POO\\lab2\\Lab 2 OOP\\Functions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5334BA14-DA08-4F4D-B38A-47AF64111884}|Lab 2 OOP\\Lab 2 OOP.vcxproj|solutionrelative:Lab 2 OOP\\Functions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5334BA14-DA08-4F4D-B38A-47AF64111884}|Lab 2 OOP\\Lab 2 OOP.vcxproj|C:\\Users\\Asus\\Desktop\\Ion univer\\anul 2\\POO\\lab2\\Lab 2 OOP\\GlobalVariables.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5334BA14-DA08-4F4D-B38A-47AF64111884}|Lab 2 OOP\\Lab 2 OOP.vcxproj|solutionrelative:Lab 2 OOP\\GlobalVariables.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5334BA14-DA08-4F4D-B38A-47AF64111884}|Lab 2 OOP\\Lab 2 OOP.vcxproj|C:\\Users\\Asus\\Desktop\\Ion univer\\anul 2\\POO\\lab2\\Lab 2 OOP\\FileManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5334BA14-DA08-4F4D-B38A-47AF64111884}|Lab 2 OOP\\Lab 2 OOP.vcxproj|solutionrelative:Lab 2 OOP\\FileManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5334BA14-DA08-4F4D-B38A-47AF64111884}|Lab 2 OOP\\Lab 2 OOP.vcxproj|C:\\Users\\Asus\\Desktop\\Ion univer\\anul 2\\POO\\lab2\\Lab 2 OOP\\Functions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5334BA14-DA08-4F4D-B38A-47AF64111884}|Lab 2 OOP\\Lab 2 OOP.vcxproj|solutionrelative:Lab 2 OOP\\Functions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5334BA14-DA08-4F4D-B38A-47AF64111884}|Lab 2 OOP\\Lab 2 OOP.vcxproj|C:\\Users\\Asus\\Desktop\\Ion univer\\anul 2\\POO\\lab2\\Lab 2 OOP\\Faculty.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5334BA14-DA08-4F4D-B38A-47AF64111884}|Lab 2 OOP\\Lab 2 OOP.vcxproj|solutionrelative:Lab 2 OOP\\Faculty.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5334BA14-DA08-4F4D-B38A-47AF64111884}|Lab 2 OOP\\Lab 2 OOP.vcxproj|C:\\Users\\Asus\\Desktop\\Ion univer\\anul 2\\POO\\lab2\\Lab 2 OOP\\Faculty.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5334BA14-DA08-4F4D-B38A-47AF64111884}|Lab 2 OOP\\Lab 2 OOP.vcxproj|solutionrelative:Lab 2 OOP\\Faculty.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,55 +66,68 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 6,
+              "Title": "Functions.h",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Ion univer\\anul 2\\POO\\lab2\\Lab 2 OOP\\Functions.h",
+              "RelativeDocumentMoniker": "Lab 2 OOP\\Functions.h",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Ion univer\\anul 2\\POO\\lab2\\Lab 2 OOP\\Functions.h",
+              "RelativeToolTip": "Lab 2 OOP\\Functions.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-01T09:31:32.051Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Faculty.h",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Ion univer\\anul 2\\POO\\lab2\\Lab 2 OOP\\Faculty.h",
               "RelativeDocumentMoniker": "Lab 2 OOP\\Faculty.h",
               "ToolTip": "C:\\Users\\Asus\\Desktop\\Ion univer\\anul 2\\POO\\lab2\\Lab 2 OOP\\Faculty.h",
               "RelativeToolTip": "Lab 2 OOP\\Faculty.h",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAABMAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-11-01T09:31:32.044Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 4,
               "Title": "Faculty.cpp",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Ion univer\\anul 2\\POO\\lab2\\Lab 2 OOP\\Faculty.cpp",
               "RelativeDocumentMoniker": "Lab 2 OOP\\Faculty.cpp",
               "ToolTip": "C:\\Users\\Asus\\Desktop\\Ion univer\\anul 2\\POO\\lab2\\Lab 2 OOP\\Faculty.cpp",
               "RelativeToolTip": "Lab 2 OOP\\Faculty.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-01T09:31:32.045Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 3,
               "Title": "Functions.cpp",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Ion univer\\anul 2\\POO\\lab2\\Lab 2 OOP\\Functions.cpp",
               "RelativeDocumentMoniker": "Lab 2 OOP\\Functions.cpp",
               "ToolTip": "C:\\Users\\Asus\\Desktop\\Ion univer\\anul 2\\POO\\lab2\\Lab 2 OOP\\Functions.cpp",
               "RelativeToolTip": "Lab 2 OOP\\Functions.cpp",
-              "ViewState": "AgIAACABAAAAAAAAAAAAAIsAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-01T09:31:32.046Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 2,
               "Title": "FileManager.cpp",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Ion univer\\anul 2\\POO\\lab2\\Lab 2 OOP\\FileManager.cpp",
               "RelativeDocumentMoniker": "Lab 2 OOP\\FileManager.cpp",
               "ToolTip": "C:\\Users\\Asus\\Desktop\\Ion univer\\anul 2\\POO\\lab2\\Lab 2 OOP\\FileManager.cpp",
               "RelativeToolTip": "Lab 2 OOP\\FileManager.cpp",
-              "ViewState": "AgIAAEQAAAAAAAAAAAAAAKIAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAAAKwAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-01T09:31:32.047Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "GlobalVariables.cpp",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Ion univer\\anul 2\\POO\\lab2\\Lab 2 OOP\\GlobalVariables.cpp",
               "RelativeDocumentMoniker": "Lab 2 OOP\\GlobalVariables.cpp",
@@ -126,56 +139,44 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Functions.h",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Ion univer\\anul 2\\POO\\lab2\\Lab 2 OOP\\Functions.h",
-              "RelativeDocumentMoniker": "Lab 2 OOP\\Functions.h",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\Ion univer\\anul 2\\POO\\lab2\\Lab 2 OOP\\Functions.h",
-              "RelativeToolTip": "Lab 2 OOP\\Functions.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-01T09:31:32.051Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Lab 2 OOP.cpp",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Ion univer\\anul 2\\POO\\lab2\\Lab 2 OOP\\Lab 2 OOP.cpp",
               "RelativeDocumentMoniker": "Lab 2 OOP\\Lab 2 OOP.cpp",
               "ToolTip": "C:\\Users\\Asus\\Desktop\\Ion univer\\anul 2\\POO\\lab2\\Lab 2 OOP\\Lab 2 OOP.cpp",
               "RelativeToolTip": "Lab 2 OOP\\Lab 2 OOP.cpp",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAADkAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAJEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-01T09:31:32.114Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "Student.cpp",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Ion univer\\anul 2\\POO\\lab2\\Lab 2 OOP\\Student.cpp",
               "RelativeDocumentMoniker": "Lab 2 OOP\\Student.cpp",
               "ToolTip": "C:\\Users\\Asus\\Desktop\\Ion univer\\anul 2\\POO\\lab2\\Lab 2 OOP\\Student.cpp",
               "RelativeToolTip": "Lab 2 OOP\\Student.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAACOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-01T09:31:31.991Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "FileManager.h",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Ion univer\\anul 2\\POO\\lab2\\Lab 2 OOP\\FileManager.h",
               "RelativeDocumentMoniker": "Lab 2 OOP\\FileManager.h",
               "ToolTip": "C:\\Users\\Asus\\Desktop\\Ion univer\\anul 2\\POO\\lab2\\Lab 2 OOP\\FileManager.h",
               "RelativeToolTip": "Lab 2 OOP\\FileManager.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-11-01T09:31:32.052Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "GlobalVariables.h",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Ion univer\\anul 2\\POO\\lab2\\Lab 2 OOP\\GlobalVariables.h",
               "RelativeDocumentMoniker": "Lab 2 OOP\\GlobalVariables.h",
@@ -187,31 +188,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "Logger.cpp",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Ion univer\\anul 2\\POO\\lab2\\Lab 2 OOP\\Logger.cpp",
               "RelativeDocumentMoniker": "Lab 2 OOP\\Logger.cpp",
               "ToolTip": "C:\\Users\\Asus\\Desktop\\Ion univer\\anul 2\\POO\\lab2\\Lab 2 OOP\\Logger.cpp",
               "RelativeToolTip": "Lab 2 OOP\\Logger.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAwwCYAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-01T09:31:32.286Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "Logger.h",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Ion univer\\anul 2\\POO\\lab2\\Lab 2 OOP\\Logger.h",
               "RelativeDocumentMoniker": "Lab 2 OOP\\Logger.h",
               "ToolTip": "C:\\Users\\Asus\\Desktop\\Ion univer\\anul 2\\POO\\lab2\\Lab 2 OOP\\Logger.h",
               "RelativeToolTip": "Lab 2 OOP\\Logger.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-11-01T09:31:32.288Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "Student.h",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Ion univer\\anul 2\\POO\\lab2\\Lab 2 OOP\\Student.h",
               "RelativeDocumentMoniker": "Lab 2 OOP\\Student.h",
@@ -234,6 +235,10 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
             }
           ]
         }

@@ -1,4 +1,4 @@
-#include "FileManager.h"
+﻿#include "FileManager.h"
 #include <string>
 #include <fstream>
 #include <sstream>
@@ -13,7 +13,7 @@ void FileManager::saveData(const list<Faculty>& faculties)
     ofstream outFile("university_data.txt");
 
     if (!outFile) {
-        cerr << "Error: Could not open file for writing." << endl;
+        cerr << "Eroare: Nu s-a putut deschide fisierul pentru scriere." << endl;
         return;
     }
 
@@ -32,7 +32,7 @@ void FileManager::saveData(const list<Faculty>& faculties)
     }
 
     outFile.close();
-    logger.log(INFO, "Data saved successfully.");
+    logger.log(INFO, "Datele au fost salvate cu succes.");
 }
 
 void FileManager::loadData(list<Faculty>& faculties)
@@ -40,7 +40,7 @@ void FileManager::loadData(list<Faculty>& faculties)
     ifstream inFile("university_data.txt");
 
     if (!inFile) {
-        cerr << "Error: Could not open file for reading." << endl;
+        cerr << "Eroare: Nu s-a putut deschide fisierul pentru citire." << endl;
         return;
     }
 
@@ -101,7 +101,7 @@ void FileManager::loadData(list<Faculty>& faculties)
         faculties.push_back(faculty);
     }
     inFile.close();
-    logger.log(INFO, "Data loaded successfully.");
+    logger.log(INFO, "Datele au fost incarcate cu succes.");
 }
 
 void FileManager::BatchEnroll(Faculty& faculty)
@@ -109,7 +109,7 @@ void FileManager::BatchEnroll(Faculty& faculty)
     ifstream inFile("batch_enroll.txt");
 
     if (!inFile) {
-        cerr << "Error: Could not open file for reading." << endl;
+        cerr << "Eroare: Nu s-a putut deschide fisierul pentru citire." << endl;
         return;
     }
 
@@ -135,7 +135,7 @@ void FileManager::BatchEnroll(Faculty& faculty)
         faculty.students.push_back(student);
     }
     inFile.close();
-    logger.log(INFO, "Students enrolled successfully");
+    logger.log(INFO, "Studentii au fost inscrisi cu succes.");
 }
 
 void FileManager::BatchGraduate(Faculty& faculty)
@@ -143,7 +143,7 @@ void FileManager::BatchGraduate(Faculty& faculty)
     ifstream inFile("university_data.txt");
 
     if (!inFile) {
-        cerr << "Error: Could not open file for reading." << endl;
+        cerr << "Eroare: Nu s-a putut deschide fisierul pentru citire." << endl;
         return;
     }
 
@@ -152,7 +152,7 @@ void FileManager::BatchGraduate(Faculty& faculty)
     while (!graduated) {
         getline(inFile, line);
         if (line == "") {
-            logger.log(ERROR, "There are no students to graduate");
+            logger.log(ERROR, "Nu sunt studenti de absolvit");
             return;
         }
         stringstream temp(line);
@@ -163,7 +163,7 @@ void FileManager::BatchGraduate(Faculty& faculty)
         {
             getline(inFile, line);
             if (line == "0") {
-                logger.log(ERROR, "There are no students to graduate");
+                logger.log(ERROR, "Nu sunt studenti de absolvit");
                 return;
             }
             int numStudents = stoi(line);
@@ -179,5 +179,5 @@ void FileManager::BatchGraduate(Faculty& faculty)
             graduated = 1;
         }
     }
-    if (graduated == 1) logger.log(INFO, "Students graduated successfully");
+    if (graduated == 1) logger.log(INFO, "Studentii au fost absolviti cu succes.");
 }

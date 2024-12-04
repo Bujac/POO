@@ -15,42 +15,42 @@ using namespace std;
 
 int main()
 {
-    int choice = 0;
-    int choice1 = 0;
-    int choice2 = 0;
-    int savedData = 0;
+    int optiune = 0;
+    int optiune1 = 0;
+    int optiune2 = 0;
+    int dateSalvate = 0;
     while (true)
     {
         cout << endl;
-        cout << "1. General operations." << endl;
-        cout << "2. Faculty operations." << endl;
-        cout << "3. Save session." << endl;
-        cout << "4. Load previous session." << endl;
-        cout << "0. Exit." << endl;
-        cout << "Choose an option: ";
-        cin >> choice;
-        if (choice < 0 || choice > 5)
+        cout << "1. Operatiuni generale." << endl;
+        cout << "2. Operatiuni cu facultati." << endl;
+        cout << "3. Salveaza sesiunea." << endl;
+        cout << "4. Incarca sesiunea anterioara." << endl;
+        cout << "0. Iesire." << endl;
+        cout << "Alege o optiune: ";
+        cin >> optiune;
+        if (optiune < 0 || optiune > 5)
         {
-            logger.log(WARNING, "invalid option");
+            logger.log(WARNING, "Optiune invalida");
         }
-        switch (choice)
+        switch (optiune)
         {
         case 1:
         {
-            choice1 = 0;
-            while (choice1 != 6)
+            optiune1 = 0;
+            while (optiune1 != 6)
             {
                 cout << endl;
-                cout << "What do you want to do?" << endl;
-                cout << "1. Create a new faculty." << endl;
-                cout << "2. Search what faculty a student belongs to by a unique identifier (email)." << endl;
-                cout << "3. Display University faculties." << endl;
-                cout << "4. Display all faculties belonging to a field." << endl;
-                cout << "5. Display the information about a student." << endl;
-                cout << "6. Back." << endl;
-                cout << "Choose an option: ";
-                cin >> choice1;
-                switch (choice1)
+                cout << "Ce doresti sa faci?" << endl;
+                cout << "1. Creeaza o noua facultate." << endl;
+                cout << "2. Cauta facultatea unui student dupa un identificator unic (email)." << endl;
+                cout << "3. Afiseaza facultatile Universitatii." << endl;
+                cout << "4. Afiseaza toate facultatile dintr-un domeniu." << endl;
+                cout << "5. Afiseaza informatii despre un student." << endl;
+                cout << "6. Inapoi." << endl;
+                cout << "Alege o optiune: ";
+                cin >> optiune1;
+                switch (optiune1)
                 {
                 case 1:
                 {
@@ -81,29 +81,29 @@ int main()
         }
         case 2:
         {
-            choice2 = 0;
-            while (choice2 != 8)
+            optiune2 = 0;
+            while (optiune2 != 8)
             {
                 cout << endl;
-                cout << "What do you want to do?" << endl;
-                cout << "1. Create and assign a student to a faculty." << endl;
-                cout << "2. Graduate a student from a faculty." << endl;
-                cout << "3. Display current enrolled students." << endl;
-                cout << "4. Display graduates." << endl;
-                cout << "5. Tell or not if a student belongs to this faculty." << endl;
-                cout << "6. Batch enrollment." << endl;
-                cout << "7. Batch graduation." << endl;
-                cout << "8. Back." << endl;
-                cout << "Choose an option: ";
-                cin >> choice2;
-                switch (choice2)
+                cout << "Ce doresti sa faci?" << endl;
+                cout << "1. Creeaza si aloca un student la o facultate." << endl;
+                cout << "2. Absolva un student de la o facultate." << endl;
+                cout << "3. Afiseaza studentii inscrisi in prezent." << endl;
+                cout << "4. Afiseaza absolventii." << endl;
+                cout << "5. Spune daca un student apartine sau nu unei facultati." << endl;
+                cout << "6. Inscriere in lot." << endl;
+                cout << "7. Absolvire in lot." << endl;
+                cout << "8. Inapoi." << endl;
+                cout << "Alege o optiune: ";
+                cin >> optiune2;
+                switch (optiune2)
                 {
                 case 1:
                 {
                     if (!faculties.empty()) {
                         createandassign();
                     }
-                    else logger.log(ERROR, "You need to create a faculty first!");
+                    else logger.log(ERROR, "Trebuie sa creezi mai intai o facultate!");
                     break;
                 }
                 case 2:
@@ -134,10 +134,10 @@ int main()
                 }
                 case 7:
                 {
-                    if (savedData == 1) {
+                    if (dateSalvate == 1) {
                         batchgraduation();
                     }
-                    else logger.log(ERROR, "You need to save the session first!");
+                    else logger.log(ERROR, "Trebuie sa salvezi mai intai sesiunea!");
                     break;
                 }
                 }
@@ -147,7 +147,7 @@ int main()
         case 3:
         {
             FileManager::saveData(faculties);
-            savedData = 1;
+            dateSalvate = 1;
             break;
         }
         case 4:
@@ -163,4 +163,3 @@ int main()
     }
     return 0;
 }
-
