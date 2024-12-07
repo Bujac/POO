@@ -5,8 +5,8 @@ using System.Threading;
 
 bool isRunning = true;
 int choice;
-string root = @"C:\Users\user\Desktop\Lab 3 POO\Test";
-string commitdir = @"C:\Users\user\Desktop\Lab 3 POO\Commits";
+string root = @"C:\Users\Asus\Desktop\Lab 3 POO\Test";
+string commitdir = @"C:\Users\Asus\Desktop\Lab 3 POO\Commits";
 bool calledmanually = false;
 
 Task ChangeDetector = RunChangeDetector();
